@@ -6,6 +6,8 @@ This is my capstone project for Johns Hopkins University Data Science Specializa
 
 ## Links
 The final report for the project is hosted on Rpubs [here](https://rpubs.com/AndrewFox/1053392).
+<br>
+A slide deck for the project is hosted on Rpubs [here](https://rpubs.com/AndrewFox/1042904).
 
 ## Versions
 The project was completed in R in RStudio.
