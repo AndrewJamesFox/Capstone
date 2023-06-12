@@ -14,6 +14,7 @@ The Shiny web app is hosted [here](https://captainnott.shinyapps.io/Capstone_Wor
 
 ## My Links
 My [Kaggle](https://www.kaggle.com/andrewjfox).
+<br>
 My [RPubs](https://rpubs.com/AndrewFox).
 
 ## Versions
