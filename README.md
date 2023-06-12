@@ -3,11 +3,14 @@ Andrew Fox
 
 This is my capstone project for Johns Hopkins University Data Science Specialization through Coursera.
 <br>The task was to build a word prediction model.
+<br> The project is showcased on a Shiny web app.
 
 ## Links
 The final report for the project is hosted on Rpubs [here](https://rpubs.com/AndrewFox/1053392).
 <br>
 A slide deck for the project is hosted on Rpubs [here](https://rpubs.com/AndrewFox/1042904).
+<br>
+The Shiny web app is hosted [here](https://captainnott.shinyapps.io/Capstone_Word_Prediction/).
 
 ## Versions
 The project was completed in R in RStudio.
